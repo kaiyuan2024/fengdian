@@ -1,0 +1,6 @@
+http://web.eecs.utk.edu/~kaisun/Oscillation/contestcases.html
+↑Test Cases Library of Power System Sustained Oscillations
+以及
+
+http://web.eecs.utk.edu/~kaisun/Oscillation/2021Contest/
+↑2021 IEEE-NASPI Oscillation Source Location Contest
